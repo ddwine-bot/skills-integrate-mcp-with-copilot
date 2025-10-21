@@ -7,6 +7,10 @@ A super simple FastAPI application that allows students to view and sign up for 
 - View all available extracurricular activities
 - Sign up for activities
 
+## Hotfixes
+
+- 2025-10-21: Added "GitHub Skills" activity (hotfix for issue #6)
+
 ## Getting Started
 
 1. Install the dependencies:
